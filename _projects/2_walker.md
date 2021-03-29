@@ -7,4 +7,4 @@ redirect:
 
 [GitHub repo](https://github.com/Sparkliner/kneed-walker-matlab)
 
-{% pdf "https://media.githubusercontent.com/media/Sparkliner/kneed-walker-matlab/main/Controls_Comparison.pdf" %}
+If the embedded PDF is not displayed properly, <a href="{{site.baseurl}}/assets/files/pdf/Controls_Comparison.pdf" target="_blank">please click here.</a> <embed src="{{site.baseurl}}/assets/files/pdf/Controls_Comparison.pdf" style="width:100%; height:100vw" />
